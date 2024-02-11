@@ -1,0 +1,1 @@
+cdef void check_buffer(buff)
